@@ -1,6 +1,7 @@
 <p align="center">
  
-  <img width="946" height="437" alt="image" src="https://github.com/user-attachments/assets/5df4c3a6-7ad7-4d40-8f95-95ae06cee40b" />
+<img width="1920" height="878" alt="2026-03-23 - 15_43_29 - Taakra - Compete  Win  Shine" src="https://github.com/user-attachments/assets/8039cc9b-bc25-4020-92ac-2ac72c52d6e6" />
+
 
 </p>
 
@@ -23,7 +24,7 @@
 
 ## ✨ Overview
 
-**Taakra** is a full-stack MVP competition platform built for creators who want to participate in design, tech, and creative challenges. Browse competitions by category, register with one click, track deadlines on your calendar, and message support in real-time—all in a sleek dark-themed interface with sky-blue accents.
+**Taakra** is a full-stack competition platform built for creators who want to participate in design, tech, and creative challenges. Browse competitions by category, register with one click, track deadlines on your calendar, and message support in real-time—all in a sleek dark-themed interface with sky-blue accents.
 
 > **Zero to run:** One command gets you from clone to fully working app. No manual config, no env copy-paste—just `npm run dev`.
 
@@ -66,11 +67,16 @@ That's it. The bootstrap script will:
 
 | Landing | Competitions | Dashboard |
 |---------|--------------|-----------|
-| ![Landing](https://placehold.co/400x250/0f172a/38bdf8?text=Hero+Video+%26+CTA) | ![Competitions](https://placehold.co/400x250/1e3a5f/38bdf8?text=Browse+%26+Filter) | ![Dashboard](https://placehold.co/400x250/1e293b/38bdf8?text=My+Registrations) |
+| ![Landing](<img width="1920" height="878" alt="hero section" src="https://github.com/user-attachments/assets/32a3d091-e16c-416b-883e-6c25428a7684" />
+) | ![Competitions](<img width="1920" height="878" alt="competitions" src="https://github.com/user-attachments/assets/233b47eb-ad5d-4153-8f08-0328de7564a7" />
+) | ![Dashboard](<img width="1920" height="878" alt="registerations user" src="https://github.com/user-attachments/assets/1a9cc665-58ba-4f97-82e0-b3cd8ee34f44" />
+) |
 
 | Admin Overview | Support Chat |
 |----------------|--------------|
-| ![Admin](https://placehold.co/600x200/0f172a/38bdf8?text=Analytics+%26+Top+Competitions) | ![Chat](https://placehold.co/600x200/1e3a5f/38bdf8?text=Real-time+Support+Chat) |
+| ![Admin](<img width="1897" height="960" alt="admin overview" src="https://github.com/user-attachments/assets/71868bd3-a17f-432b-b6a2-2750d61d4a67" />
+) | ![Chat](<img width="1920" height="878" alt="support chat" src="https://github.com/user-attachments/assets/40b62279-05cd-4b6b-8c4c-7b5edd47cbf1" />
+) |
 
 > 💡 Replace these placeholders with real screenshots: save images to `docs/screenshots/` and update the paths above.
 
