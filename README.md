@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://placehold.co/800x400/0f172a/38bdf8?text=Taakra+Landing+%7C+Compete.+Win.+Shine." alt="Taakra Hero" width="800" />
+ 
+  <img width="946" height="437" alt="image" src="https://github.com/user-attachments/assets/5df4c3a6-7ad7-4d40-8f95-95ae06cee40b" />
+
 </p>
 
 <h1 align="center">Taakra</h1>
