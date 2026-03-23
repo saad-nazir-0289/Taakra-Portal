@@ -1,0 +1,88 @@
+Taakra MVP – folder structure (excluding node_modules)
+
+/
+├── package.json
+├── docker-compose.yml
+├── README.md
+├── TREE.txt
+├── scripts/
+│   └── bootstrap.mjs
+├── client/
+│   ├── package.json
+│   ├── index.html
+│   ├── vite.config.js
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── .env.example
+│   ├── public/
+│   │   ├── favicon.svg
+│   │   └── hero.mp4          (created by bootstrap if missing)
+│   └── src/
+│       ├── main.jsx
+│       ├── App.jsx
+│       ├── index.css
+│       ├── lib/
+│       │   └── api.js
+│       ├── context/
+│       │   ├── AuthContext.jsx
+│       │   └── SocketContext.jsx
+│       ├── layouts/
+│       │   ├── PublicLayout.jsx
+│       │   └── DashboardLayout.jsx
+│       ├── pages/
+│       │   ├── Home.jsx
+│       │   ├── Competitions.jsx
+│       │   ├── CompetitionDetail.jsx
+│       │   ├── Login.jsx
+│       │   ├── Signup.jsx
+│       │   ├── Dashboard.jsx
+│       │   ├── Calendar.jsx
+│       │   ├── Profile.jsx
+│       │   ├── SupportChat.jsx
+│       │   ├── Chatbot.jsx
+│       │   ├── Inbox.jsx
+│       │   ├── ThreadView.jsx
+│       │   └── admin/
+│       │       ├── Overview.jsx
+│       │       ├── CompetitionsCRUD.jsx
+│       │       ├── CategoriesCRUD.jsx
+│       │       ├── Registrations.jsx
+│       │       ├── Users.jsx
+│       │       └── SupportManagement.jsx
+│       └── assets/
+│           └── .gitkeep      (hero.mp4 created here by bootstrap too)
+└── server/
+    ├── package.json
+    ├── build.js
+    ├── .env.example
+    ├── scripts/
+    │   └── seed.mjs
+    └── src/
+        ├── index.js
+        ├── config.js
+        ├── db.js
+        ├── seed.js
+        ├── socket.js
+        ├── lib/
+        │   ├── tokens.js
+        │   └── passport.js
+        ├── middleware/
+        │   ├── auth.js
+        │   ├── rbac.js
+        │   ├── errorHandler.js
+        │   └── validate.js
+        ├── models/
+        │   ├── User.js
+        │   ├── Category.js
+        │   ├── Competition.js
+        │   ├── Registration.js
+        │   ├── ChatThread.js
+        │   └── ChatMessage.js
+        └── routes/
+            ├── auth.js
+            ├── oauth.js
+            ├── competitions.js
+            ├── users.js
+            ├── chat.js
+            ├── chatbot.js
+            └── admin.js

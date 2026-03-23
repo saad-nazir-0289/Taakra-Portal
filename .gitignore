@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+*.log
+.DS_Store
+client/public/hero.mp4
+client/src/assets/hero.mp4

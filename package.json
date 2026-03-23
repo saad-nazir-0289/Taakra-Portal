@@ -1,0 +1,17 @@
+{
+  "name": "taakra-mvp",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/bootstrap.mjs",
+    "build": "npm run build:server && npm run build:client",
+    "build:server": "cd server && npm run build",
+    "build:client": "cd client && npm run build",
+    "start": "node server/src/index.js",
+    "lint": "npm run lint:server && npm run lint:client",
+    "lint:server": "cd server && npm run lint",
+    "lint:client": "cd client && npm run lint"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

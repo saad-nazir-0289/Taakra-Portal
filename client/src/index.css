@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+  background: linear-gradient(180deg, #0f172a 0%, #1e3a5f 50%, #1e293b 100%);
+  min-height: 100vh;
+  color: #e2e8f0;
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-blue-900/80 shadow-lg backdrop-blur;
+    background: rgba(15, 23, 42, 0.9);
+  }
+  .btn-primary {
+    @apply px-4 py-2 rounded-lg font-medium transition text-slate-900;
+    background: #0ea5e9;
+  }
+  .btn-primary:hover {
+    background: #38bdf8;
+  }
+  .btn-secondary {
+    @apply px-4 py-2 rounded-lg border font-medium transition text-sky-300 border-sky-500 hover:bg-sky-500/20;
+  }
+}
+
+input, select, textarea {
+  @apply bg-slate-800/80 border border-blue-800 text-slate-100 rounded-lg;
+}
+input::placeholder, textarea::placeholder {
+  @apply text-slate-500;
+}
