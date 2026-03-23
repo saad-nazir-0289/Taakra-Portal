@@ -62,16 +62,11 @@ That's it. The bootstrap script will:
 
 | Landing | Competitions | Dashboard |
 |---------|--------------|-----------|
-| <img width="1920" height="878" alt="hero section" src="https://github.com/user-attachments/assets/32a3d091-e16c-416b-883e-6c25428a7684" />
- | <img width="1920" height="878" alt="competitions" src="https://github.com/user-attachments/assets/233b47eb-ad5d-4153-8f08-0328de7564a7" />
-| <img width="1920" height="878" alt="registerations user" src="https://github.com/user-attachments/assets/1a9cc665-58ba-4f97-82e0-b3cd8ee34f44" />
-|
+| <img width="1920" height="878" alt="hero section" src="https://github.com/user-attachments/assets/32a3d091-e16c-416b-883e-6c25428a7684" />| <img width="1920" height="878" alt="competitions" src="https://github.com/user-attachments/assets/233b47eb-ad5d-4153-8f08-0328de7564a7" />| <img width="1920" height="878" alt="registerations user" src="https://github.com/user-attachments/assets/1a9cc665-58ba-4f97-82e0-b3cd8ee34f44" />|
 
 | Admin Overview | Support Chat |
 |----------------|--------------|
-| <img width="1897" height="960" alt="admin overview" src="https://github.com/user-attachments/assets/71868bd3-a17f-432b-b6a2-2750d61d4a67" />
- | <img width="1920" height="878" alt="support chat" src="https://github.com/user-attachments/assets/40b62279-05cd-4b6b-8c4c-7b5edd47cbf1" />
- |
+| <img width="1897" height="960" alt="admin overview" src="https://github.com/user-attachments/assets/71868bd3-a17f-432b-b6a2-2750d61d4a67" />| <img width="1920" height="878" alt="support chat" src="https://github.com/user-attachments/assets/40b62279-05cd-4b6b-8c4c-7b5edd47cbf1" />|
 
 
 
