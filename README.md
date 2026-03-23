@@ -1,9 +1,4 @@
-<p align="center">
- 
-<img width="1920" height="878" alt="2026-03-23 - 15_43_29 - Taakra - Compete  Win  Shine" src="https://github.com/user-attachments/assets/8039cc9b-bc25-4020-92ac-2ac72c52d6e6" />
 
-
-</p>
 
 <h1 align="center">Taakra</h1>
 <h3 align="center">Compete. Win. Shine.</h3>
@@ -67,8 +62,8 @@ That's it. The bootstrap script will:
 
 | Landing | Competitions | Dashboard |
 |---------|--------------|-----------|
-| ![Landing](<img width="1920" height="878" alt="hero section" src="https://github.com/user-attachments/assets/32a3d091-e16c-416b-883e-6c25428a7684" />
-) | ![Competitions](<img width="1920" height="878" alt="competitions" src="https://github.com/user-attachments/assets/233b47eb-ad5d-4153-8f08-0328de7564a7" />
+| <img width="1920" height="878" alt="hero section" src="https://github.com/user-attachments/assets/32a3d091-e16c-416b-883e-6c25428a7684" />
+ | ![Competitions](<img width="1920" height="878" alt="competitions" src="https://github.com/user-attachments/assets/233b47eb-ad5d-4153-8f08-0328de7564a7" />
 ) | ![Dashboard](<img width="1920" height="878" alt="registerations user" src="https://github.com/user-attachments/assets/1a9cc665-58ba-4f97-82e0-b3cd8ee34f44" />
 ) |
 
